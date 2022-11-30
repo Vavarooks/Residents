@@ -27,7 +27,6 @@ const Home = () => {
                                     <img src={process.env.PUBLIC_URL + './img/front-door.jpeg'} class="card-img-top img-fluid" alt="front-door" />
                                     <div class="card-body">
                                         <h5 class="card-title">Dinning Area</h5>
-                                        <p class="card-text">Room Size</p>
                                     </div>
                                 </div>
                             </div>
@@ -35,8 +34,7 @@ const Home = () => {
                                 <div class="card">
                                     <img src={process.env.PUBLIC_URL + './img/entry-way.jpeg'} class="card-img-top img-fluid" alt="entry-way" />
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Room Sized</p>
+                                        <h5 class="card-title">Entry Way</h5>
                                     </div>
                                 </div>
                             </div>
@@ -44,8 +42,7 @@ const Home = () => {
                                 <div class="card">
                                     <img src={process.env.PUBLIC_URL + './img/dinning-room1.jpeg'} class="card-img-top img-fluid" alt="dinning-room" />
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Room Size</p>
+                                        <h5 class="card-title">Dinning Room Image 1</h5>
                                     </div>
                                 </div>
                             </div>
@@ -53,8 +50,7 @@ const Home = () => {
                                 <div class="card">
                                     <img src={process.env.PUBLIC_URL + './img/dinning-room2.jpeg'} class="card-img-top img-fluid" alt="dinning-room" />
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Room Size</p>
+                                        <h5 class="card-title">Dinning Room Image 2</h5>
                                     </div>
                                 </div>
                             </div>
@@ -62,8 +58,7 @@ const Home = () => {
                                 <div class="card">
                                     <img src={process.env.PUBLIC_URL + './img/dinning-room3.jpeg'} class="card-img-top img-fluid" alt="dinning-room" />
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Room Size</p>
+                                        <h5 class="card-title">Dinning Room Image 3</h5>
                                     </div>
                                 </div>
                             </div>
@@ -75,8 +70,7 @@ const Home = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + './img/kitchen.jpeg'} className="card-img-top img-fluid" alt="kitchen" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Room Size</p>
+                                        <h5 className="card-title">Kitchen</h5>
                                     </div>
                                 </div>
                             </div>
@@ -84,8 +78,7 @@ const Home = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + './img/room1.jpeg'} className="card-img-top img-fluid" alt="room1" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Room Size</p>
+                                        <h5 className="card-title">Bedroom</h5>
                                     </div>
                                 </div>
                             </div>
@@ -93,8 +86,7 @@ const Home = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + './img/bathroom1.jpeg'} className="card-img-top img-fluid" alt="bathroom1" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Room Size</p>
+                                        <h5 className="card-title">Bathroom Image 1</h5>
                                     </div>
                                 </div>
                             </div>
@@ -102,8 +94,7 @@ const Home = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + './img/bathroom2.jpeg'} className="card-img-top img-fluid" alt="bathroom2" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Room Size</p>
+                                        <h5 className="card-title">Bathroom Image 2</h5>
                                     </div>
                                 </div>
                             </div>
@@ -115,8 +106,7 @@ const Home = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + './img/back-yard1.jpeg'} className="card-img-top img-fluid" alt="backyard" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Room Size</p>
+                                        <h5 className="card-title">Back Yard Image 1</h5>
                                     </div>
                                 </div>
                             </div>
@@ -124,8 +114,7 @@ const Home = () => {
                                 <div className="card">
                                     <img src={process.env.PUBLIC_URL + './img/back-yard2.jpeg'} className="card-img-top img-fluid" alt="backyard" />
                                     <div className="card-body">
-                                        <h5 className="card-title">Card title</h5>
-                                        <p className="card-text">Room Size</p>
+                                        <h5 className="card-title">Back Yard Image 2</h5>
                                     </div>
                                 </div>
                             </div>

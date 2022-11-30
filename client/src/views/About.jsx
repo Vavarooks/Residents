@@ -9,6 +9,7 @@ const About = () => {
                     <div className="card-body">
                         <p>Mission Statement</p>
                         <p>More about the Crew</p>
+                        <p>More about the Start</p>
                     </div>
                 </div>
             </div>
