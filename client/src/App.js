@@ -4,6 +4,7 @@ import Home from './views/Home'
 import Contact from './views/Contact'
 import About from './views/About'
 import Services from './views/Services'
+import FAQ from './views/Faq'
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
                   <Link className="nav-link" to={'/services'}><h5>Services</h5></Link>
                 </li>
                 <li className="nav-item">
+                  <Link className="nav-link" to={'/faq'}><h5>FAQ</h5></Link>
+                </li>
+                <li className="nav-item">
                   <Link className="nav-link" to={'/contact'}><h5>Contact Us</h5></Link>
                 </li>
               </ul>
@@ -38,6 +42,7 @@ function App() {
           <Route path='/contact' element={<Contact />} />
           <Route path='/about' element={<About />} />
           <Route path='/services' element={<Services />} />
+          <Route path='/faq' element={<FAQ/>} />
         </Routes>
       </div>
     </>
