@@ -41,3 +41,11 @@
     transform: rotate(360deg);
   }
 }
+
+.Fonts {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+  font-size: medium;
+  /* $font-family-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Basic web fallback
+  Arial,sans-serif,"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default; */
+}
+

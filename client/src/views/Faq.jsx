@@ -9,7 +9,7 @@ const FAQ = () => {
                     <div className="card-body">
                         <ul className="list-group list-group-flush">
                             <li className="list-group-item">
-                                <p>Grace Homes LLC is a licensed Residential Care Facility for the Elderly (RCFE), serving the elderly community since 2001.
+                                <p className="Fonts">Grace Homes LLC is a licensed Residential Care Facility for the Elderly (RCFE), serving the elderly community since 2001.
                                     We offer private and shared rooms for ambulatory and non-ambulatory elderly men and women in a home environment.
                                     All main entrances are wheelchair accessible. 
                                     Our caregivers are well-trained in all aspects of caretaking, including assisting with medications and residents’ special needs. We provide delicious homemade cooking and personalized care for every resident.</p>
@@ -20,13 +20,13 @@ const FAQ = () => {
                                 License #075601395<br/>
                                 Telephone/Fax: 510-233-5377<br/>
                                 </address>
-                                <p>Grace Homes can accommodate ambulatory and non ambulatory clients.
+                                <p className="Fonts">Grace Homes can accommodate ambulatory and non ambulatory clients.
                                     Helen Herbert currently manages Grace Homes. Since 2001, she has managed and operated elderly care homes in San Mateo and Richmond. Helen is a State Licensed Administrator, and a registered nurse with a background in long term care and medical/surgical fields in various hospitals.
                                     Helen’s long-term goal is to make Grace Homes a place where residents can optimize their mental, social and physical well being.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3> Does your community provide other services like Hospice Care, Memory Care and Respite care?</h3>
-                                <p>We have hospice waivers and can accommodate hospice residents.
+                                <p className="Fonts">We have hospice waivers and can accommodate hospice residents.
                                     We welcome residents with Mild Cognitive Impairment.
                                     We are a Non-medical care facility which is NOT allowed to provide 24 hour Skilled Nursing Care.
                                     When space is available we can accommodate residents in need of respite care.
@@ -35,34 +35,34 @@ const FAQ = () => {
                             </li>
                             <li className="list-group-item">
                                 <h3>Does your community allow pets?</h3>
-                                <p> Our facility is home to a pet parakeet.  However, family pets (such as dogs and cats) are only allowed for visits.</p>
+                                <p className="Fonts"> Our facility is home to a pet parakeet.  However, family pets (such as dogs and cats) are only allowed for visits.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3> Do residents have allocated parking spaces?</h3>
-                                <p> There is plenty of street parking available.</p>
+                                <p className="Fonts"> There is plenty of street parking available.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3>What kind of daily programs are offered to your residents. Do you have a program calendar?</h3>
-                                <p> Since this is a small community, programs are created on a daily basis, depending on each resident’s interests.
+                                <p className="Fonts"> Since this is a small community, programs are created on a daily basis, depending on each resident’s interests.
                                     MAPS (Mobile Activity Program Specialist for Elders), a third party service provider, offers a regular schedule of indoor activities such as Arts and crafts, music therapy, poetry and singing to our residents.
                                     Other indoor and outdoor activities are supplemented by Grace Homes caregivers.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3>What are your rates?</h3>
-                                <p>Our rates are based on each individual’s functional capabilities.  Factors affecting the rate are: incontinence care, special diet, special needs, wheelchair dependency, mobility, hospice care and other medication needs.
+                                <p className="Fonts">Our rates are based on each individual’s functional capabilities.  Factors affecting the rate are: incontinence care, special diet, special needs, wheelchair dependency, mobility, hospice care and other medication needs.
                                 Please call for a free personal assessment appointment: (510) 233-5377</p>
                             </li>
                             <li className="list-group-item">
                                 <h3>Do you offer any religious or spiritual services? Is religious orientation important?</h3>
-                                Our community does not discriminate on the basis of race, color, religion, national origin/ ancestry, or sexual orientation.  Religious services upon request.
+                                <p className="Fonts">Our community does not discriminate on the basis of race, color, religion, national origin/ ancestry, or sexual orientation.  Religious services upon request.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3>Is your community wheelchair accessible?</h3>
-                                <p>Yes, all main entrances are wheelchair accessible.</p>
+                                <p className="Fonts">Yes, all main entrances are wheelchair accessible.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3> What is the surrounding neighborhood like? Is there a shopping center nearby? What about medical centers, hospitals and pharmacies?</h3>
-                                <p>Our community is within walking distance from El Cerrito Del Norte BART station, restaurants, shopping centers, grocery stores, drug stores, postal service, banks and hardware stores. There are two (2) hospitals within 10-20 minutes’ drive from the facility, and a fire station 5 minutes away by car.</p>
+                                <p className="Fonts">Our community is within walking distance from El Cerrito Del Norte BART station, restaurants, shopping centers, grocery stores, drug stores, postal service, banks and hardware stores. There are two (2) hospitals within 10-20 minutes’ drive from the facility, and a fire station 5 minutes away by car.</p>
                             </li>
                         </ul>
                     </div>
