@@ -7,9 +7,9 @@ const About = () => {
                 <div className="card">
                     <h1>About</h1>
                     <div className="card-body">
-                        <p className="Fonts">Araceli Emerick founded Applewood Residents in BLANK. She is a state licensed administrator, and a registered nurse with a background in long term care, medical and surgical fields.</p>
-                        <p className="Fonts">The goal of Applewood Residents is to be a place where residents can optimize their mental, social, and physical well-being.</p>
-                        <p className="Fonts">Our Staff prides them selves on providing exeptional service around the clock.</p>
+                        <p className="Fonts">APPLEWOOD RESIDENCE LLC was founded by Araceli Santos-Emerick.</p>
+                        <p>She is a state licensed administrator, and a Licensed Vocational Nurse with a background in long term care and Skilled Nursing Facilities.</p>  
+                        <p>Her goal is to make Applewood Residence a place where residents can optimize their mental, social, and physical well-being.</p>
                     </div>
                 </div>
             </div>
