@@ -35,11 +35,11 @@ const FAQ = () => {
                             </li>
                             <li className="list-group-item">
                                 <h3>Does your community allow pets?</h3>
-                                <p className="Fonts"> Our facility is home to a pet parakeet.  However, family pets (such as dogs and cats) are only allowed for visits.</p>
+                                <p className="Fonts"> We welcome pets to visit our residents.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3> Do residents have allocated parking spaces?</h3>
-                                <p className="Fonts"> There is plenty of street parking available.</p>
+                                <p className="Fonts"> Our visitors can park their vehicles on the street.</p>
                             </li>
                             <li className="list-group-item">
                                 <h3>What kind of daily programs are offered to your residents. Do you have a program calendar?</h3>
@@ -49,8 +49,7 @@ const FAQ = () => {
                             </li>
                             <li className="list-group-item">
                                 <h3>What are your rates?</h3>
-                                <p className="Fonts">Our rates are based on each individual’s functional capabilities.  Factors affecting the rate are: incontinence care, special diet, special needs, wheelchair dependency, mobility, hospice care and other medication needs.
-                                Please call for a free personal assessment appointment: (510) 233-5377</p>
+                                <p className="Fonts">Please call for a free personal assessment appointment: (650)722-2381</p>
                             </li>
                             <li className="list-group-item">
                                 <h3>Do you offer any religious or spiritual services? Is religious orientation important?</h3>
