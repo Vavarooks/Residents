@@ -61,7 +61,7 @@ const FAQ = () => {
                             </li>
                             <li className="list-group-item">
                                 <h3> What is the surrounding neighborhood like? Is there a shopping center nearby? What about medical centers, hospitals and pharmacies?</h3>
-                                <p className="Fonts">Our community is within walking distance from El Cerrito Del Norte BART station, restaurants, shopping centers, grocery stores, drug stores, postal service, banks and hardware stores. There are two (2) hospitals within 10-20 minutes’ drive from the facility, and a fire station 5 minutes away by car.</p>
+                                <p className="Fonts">We are located in a residential area.  Our home is a few minutes away from a shopping center and pharmacies.   The nearest hospital is Kaiser Medical Center in Richmond.</p>
                             </li>
                         </ul>
                     </div>
